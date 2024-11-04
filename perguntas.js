@@ -13,16 +13,11 @@ criaCartao(
 criaCartao(
     'Artes',
     'O que é o rococó?',
-    'Uma função é um bloco de código que executa alguma taref'
+    'surgiu na França, durante o século XVIII, no contexto do Iluminismo. A arte rococó é ornamental, possui cores claras, linhas sinuosas e valoriza a beleza'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz denada em Inglês?',
+    'Oi em ingles é YOU"RE WELCOME (ióR-uéL-kãM)'
 )
